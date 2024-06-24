@@ -1,4 +1,5 @@
-# -
+# 墨鱼单词(moyudanci.com)，轻松摸鱼背单词
+
 [墨鱼单词官网 moyudanci.com](https://moyudanci.com)
 
 **一款可以透明的摸鱼背单词软件，除了你自己，没人能发现**
